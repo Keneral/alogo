@@ -1,0 +1,1 @@
+# android_vendor_mediatek_proprietary_bootable_lk_dev_logo
